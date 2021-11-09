@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>C3.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\C3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>543</width>
+		<height>726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>452</ymin>
+			<xmax>386</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

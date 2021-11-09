@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>P7.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\P7.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>373</ymin>
+			<xmax>286</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

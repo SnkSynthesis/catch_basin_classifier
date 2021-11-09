@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>P9.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\P9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>389</ymin>
+			<xmax>301</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
