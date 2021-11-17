@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>C13.JPG</filename>
+	<path>\\wsl$\Ubuntu\home\snksynthesis\projects\catch_basin_classifier\data\C13.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>437</ymin>
+			<xmax>343</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

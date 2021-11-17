@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>B8.JPG</filename>
+	<path>\\wsl$\Ubuntu\home\snksynthesis\projects\catch_basin_classifier\data\B8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>771</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blocked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>571</ymin>
+			<xmax>271</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

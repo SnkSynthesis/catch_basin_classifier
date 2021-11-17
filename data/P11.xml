@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>P11.JPG</filename>
+	<path>\\wsl$\Ubuntu\home\snksynthesis\projects\catch_basin_classifier\data\P11.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>431</ymin>
+			<xmax>283</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>
