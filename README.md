@@ -1,3 +1,8 @@
 # Catch Basin Classifier
 
-A AI Model that classifies catch basins as clear, partially clear, or blocked.
+An image classifier written in Python with Tensorflow. Classifies catch basins in 3 classes.
+
+The three classes are:
+* blocked 🠊 0
+* clear 🠊 1
+* partial 🠊 2
