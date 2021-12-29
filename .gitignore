@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+augmented_data/
+
 
 saved_models/
 tensorflow/models
