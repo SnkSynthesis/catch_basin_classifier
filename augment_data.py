@@ -6,18 +6,18 @@ import os
 import shutil
 import numpy as np
 
-widths = []
-heights = []
+# widths = []
+# heights = []
 
-for path in glob('data/**/**/*.JPG'):
-    with Image.open(path) as img:
-        widths.append(img.width)
-        heights.append(img.height)
+# for path in glob('data/**/**/*.JPG'):
+#     with Image.open(path) as img:
+#         widths.append(img.width)
+#         heights.append(img.height)
 
-image_size = round(sum(widths) / len(widths)), round(sum(heights) / len(heights))
+# image_size = round(sum(widths) / len(widths)), round(sum(heights) / len(heights))
+image_size = (180, 180)
 
 datagen = ImageDataGenerator(
-    rescale=1/255.0,
     shear_range=0.2,
     brightness_range=[0.5, 1.2],
     rotation_range=30,
