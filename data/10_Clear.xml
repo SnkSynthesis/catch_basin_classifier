@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>10_Clear.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\10_Clear.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>566</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>433</ymin>
+			<xmax>241</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

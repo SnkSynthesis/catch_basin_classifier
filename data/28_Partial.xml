@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>28_Partial.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\28_Partial.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>527</ymin>
+			<xmax>480</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

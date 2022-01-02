@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>24_Blocked.JPG</filename>
+	<path>C:\Users\SA\Desktop\Programming\projects\catch_basin_classifier\data\24_Blocked.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>627</width>
+		<height>771</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blocked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>575</ymin>
+			<xmax>257</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>
