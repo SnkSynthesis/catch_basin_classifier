@@ -22,4 +22,4 @@ object_localizer_model_name = 'FILE NAME OF DESIRED MODEL IN saved_models/object
    * Shows prediction of image_classifier_model (in both one-hot-encoded and text format)
 
 ## Workflow
-<img src="workflow.png" width="40%" height="40%"></img>
+<img src="workflow.png" width="60%" height="60%"></img>
